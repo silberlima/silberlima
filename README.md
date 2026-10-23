@@ -10,7 +10,7 @@ Software developer with 15+ years of experience, 12+ of them with Java. I modern
 - Cut query times from ~2 minutes to under 1 second through microservice refactoring and caching.
 
 ### Selected projects
-- **[Segue-me](https://github.com/silberlima/segueme)**: full-stack management system for a Catholic youth movement, with 10 access profiles and national → parish hierarchy. Java 25 · Spring Boot 4 · Keycloak · React 19 · Testcontainers · Playwright · Prometheus/Grafana.
+- **[Segue-me](https://github.com/silberlima/segueme)**: full-stack management system for a Catholic youth movement, with 10 access profiles and national → parish hierarchy. Back end: Java 25 · Spring Boot 4 · Keycloak · Testcontainers · Prometheus/Grafana. React front end built with AI assistance.
 - **[Votação](https://github.com/silberlima/votacao)**: REST API for cooperative voting sessions, with results published to Kafka by a scheduler. Java 21 · Spring Boot 3 · PostgreSQL · Liquibase · Caffeine · Docker Compose.
 
 ### Currently building
@@ -21,7 +21,7 @@ Software developer with 15+ years of experience, 12+ of them with Java. I modern
 - **Messaging:** Kafka · RabbitMQ
 - **Cloud & infra:** AWS · Docker
 - **Data:** PostgreSQL · Oracle
-- **Front end:** Angular · React
+- **Front end (working knowledge):** Angular
 
 ### Contact
 [LinkedIn](https://linkedin.com/in/silberlima) · [silber.lima@gmail.com](mailto:silber.lima@gmail.com)
