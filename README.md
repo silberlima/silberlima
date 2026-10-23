@@ -17,11 +17,11 @@ Software developer with 15+ years of experience, 12+ of them with Java. I modern
 **Audit Chain**: a tamper-evident audit log library for Spring Boot, built in public. Posts and code coming soon.
 
 ### Tech
-- <img src="https://skillicons.dev/icons?i=java,spring" height="22" alt=""> **Back end:** Java 21 · Spring Boot · JUnit
-- <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" height="22" alt=""> **Messaging:** Kafka · RabbitMQ
-- <img src="https://skillicons.dev/icons?i=aws,docker" height="22" alt=""> **Cloud & infra:** AWS · Docker
-- <img src="https://skillicons.dev/icons?i=postgres" height="22" alt=""> **Data:** PostgreSQL · Oracle
-- <img src="https://skillicons.dev/icons?i=angular" height="22" alt=""> **Front end (working knowledge):** Angular
+- **Back end:** <img src="https://skillicons.dev/icons?i=java" height="18" alt=""> Java 21 · <img src="https://skillicons.dev/icons?i=spring" height="18" alt=""> Spring Boot · JUnit
+- **Messaging:** <img src="https://skillicons.dev/icons?i=kafka" height="18" alt=""> Kafka · <img src="https://skillicons.dev/icons?i=rabbitmq" height="18" alt=""> RabbitMQ
+- **Cloud & infra:** <img src="https://skillicons.dev/icons?i=aws" height="18" alt=""> AWS · <img src="https://skillicons.dev/icons?i=docker" height="18" alt=""> Docker
+- **Data:** <img src="https://skillicons.dev/icons?i=postgres" height="18" alt=""> PostgreSQL · Oracle
+- **Front end (working knowledge):** <img src="https://skillicons.dev/icons?i=angular" height="18" alt=""> Angular
 
 ### Contact
 [LinkedIn](https://linkedin.com/in/silberlima) · [silber.lima@gmail.com](mailto:silber.lima@gmail.com)
